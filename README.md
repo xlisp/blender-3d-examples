@@ -1,3 +1,7 @@
+# Blender (Python Script) + Bambu Studio + Bambu Lab A1
+
+![](./125cs_adapt.png)
+
 ## 直接在Blender中运行 create_torus.py，生成3D文件stl格式(Bambu Studio识别格式)
 
 * 打开Blender
